@@ -1,0 +1,9 @@
+export 'bottom_bar.dart';
+export 'my_appointment/my_appointment.dart';
+export 'reviews/reviews.dart';
+export 'chat/chat.dart';
+export 'profile/profile.dart';
+export 'profile/account_setting.dart';
+export 'login_signup/login.dart';
+export 'login_signup/otp.dart';
+export 'splashScreen.dart';
