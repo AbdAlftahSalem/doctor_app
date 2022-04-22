@@ -70,7 +70,7 @@ class _SplashScreenState extends State<SplashScreen>
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(50.0),
                   image: DecorationImage(
-                    image: AssetImage('assets/icon.png'),
+                    image: AssetImage('assets/logodoctor.jpeg'),
                     fit: BoxFit.cover,
                   ),
                 ),
